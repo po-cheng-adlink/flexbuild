@@ -131,4 +131,6 @@ extra_desktop_devel_packages=" \
     libjson-glib-dev \
     python3-opencv \
     googletest \
+    libtinfo-dev \
+    python3-requests \
 "
